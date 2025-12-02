@@ -4,3 +4,5 @@ Also credit to the original recipes I used and to upsplash for the images:<br>
 https://rasamalaysia.com/chocolate-crinkle-cookies/#wprm-recipe-container-749904<br>
 https://preppykitchen.com/sugar-cookies/#recipe<br>
 https://preppykitchen.com/royal-icing/#recipe<br>
+https://recipe.ukfinda.com/creamy-baked-mac-and-cheese/<br>
+https://www.pumpkinnspice.com/fluffy-belgian-waffles/<br>
