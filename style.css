@@ -1,0 +1,53 @@
+/* Main Page */
+h1.title {
+    background-color: green;
+}
+
+ul.recipeOptions {
+    background-color:greenyellow;
+}
+
+li.recipeOptions {
+    background-color: aqua;
+}
+
+/* All Subsequent Recipe Pages */
+h1.recipeTitle {
+    background-color: pink;
+}
+
+h2.ingredients {
+    background-color: paleturquoise;
+}
+
+ul.ingredients {
+    background-color: purple;
+}
+
+li.ingredients {
+    background-color: lightpink;
+}
+
+h2.steps {
+    background-color: yellow;
+}
+
+ul.steps {
+    background-color: beige;
+}
+
+li.steps {
+    background-color: orange;
+}
+
+h3.notes {
+    background-color: orangered;
+}
+
+ul.notes {
+    background-color: brown;
+}
+
+li.notes {
+    background-color: burlywood;
+}
