@@ -1,53 +1,81 @@
 /* Main Page */
-h1.title {
-    background-color: green;
+* {
+    font-family: tahoma, sans-serif;
 }
 
-ul.recipeOptions {
-    background-color:greenyellow;
+h1.title {
+    background-color: green;
+    margin: 0 auto;
+    text-align: center;
+    width: 400px;
 }
+
+
+.recipeOptions ul {
+    margin: 0 auto;
+}
+
 
 li.recipeOptions {
     background-color: aqua;
 }
 
+
+
+
 /* All Subsequent Recipe Pages */
 h1.recipeTitle {
     background-color: pink;
+    margin: 0 auto;
+    text-align: center;
+    width: 400px;
 }
 
-h2.ingredients {
+.ingredients h2 {
     background-color: paleturquoise;
 }
 
-ul.ingredients {
-    background-color: purple;
+/* i dont think i can make a selector for ul?
+div.ingredients {
+    margin-left: auto;
+    margin-right: auto;
 }
+*/
 
-li.ingredients {
+.ingredients li {
     background-color: lightpink;
 }
 
-h2.steps {
+.steps h2 {
     background-color: yellow;
 }
 
-ul.steps {
-    background-color: beige;
+/* i dont think i can make a selector for ul?
+div.steps {
+    margin-left: auto;
+    margin-right: auto;
 }
+*/
 
-li.steps {
+.steps li {
     background-color: orange;
 }
 
-h3.notes {
+.notes h3 {
     background-color: orangered;
 }
 
-ul.notes {
-    background-color: brown;
+/* i dont think i can make a selector for ul?
+div.notes {
+    margin-left: auto;
+    margin-right: auto;
+}
+*/
+
+.notes li {
+    background-color: burlywood;
 }
 
-li.notes {
-    background-color: burlywood;
+p {
+    background-color: aquamarine;
 }
